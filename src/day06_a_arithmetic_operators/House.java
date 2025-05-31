@@ -1,4 +1,4 @@
-package day06_a_aritmetic_operators;
+package day06_a_arithmetic_operators;
 /*
  Create a class House
  create a main method
