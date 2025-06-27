@@ -1,7 +1,5 @@
 package day22_arrays;
 
-import java.util.Arrays;
-
 /*
     Given a sentence
         today is monday
